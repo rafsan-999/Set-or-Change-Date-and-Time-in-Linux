@@ -70,9 +70,3 @@ In the above result, both hardware clock and system clock has the same result.
 
 
 
-
-
-
-
-
-
